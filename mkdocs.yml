@@ -61,6 +61,12 @@ nav:
     - References: 'wun/refs.md'
     - Reading: 'wun/read.md'
     - Glossary: 'wun/gloss.md'
+  - two:
+    - Titlepage: 'two/title.md'
+    - Introduction: 'two/intro.md'
+    - References: 'two/refs.md'
+    - Reading: 'two/write.md'
+    - Glossary: 'two/gloss.md'
 
 markdown_extensions:
 
