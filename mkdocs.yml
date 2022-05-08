@@ -54,11 +54,13 @@ plugins:
   - search
 
 nav:
-  - Titlepage: 'title.md'
-  - Introduction: 'intro.md'
-  - References: 'refs.md'
-  - Reading: 'read.md'
-  - Glossary: 'gloss.md'
+  - Documents: 'index.md'
+  - wun:
+    - Titlepage: 'wun/title.md'
+    - Introduction: 'wun/intro.md'
+    - References: 'wun/refs.md'
+    - Reading: 'wun/read.md'
+    - Glossary: 'wun/gloss.md'
 
 markdown_extensions:
 
