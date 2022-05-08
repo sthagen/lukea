@@ -8,6 +8,9 @@ theme:
   icon:
     logo:
       logo
+  font:
+    text: 'Libre Franklin'
+    code: 'Source Code Pro'
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
