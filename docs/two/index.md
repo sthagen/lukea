@@ -2,7 +2,7 @@
 # Title (page)
 
 <figure markdown>
-  ![A cloudy vertical landscape.](../images/title.jpg){ width="100%", loading=lazy }
+  ![A cloudy vertical landscape.](images/title.jpg){ width="100%", loading=lazy }
   <figcaption>Any picture may be worth a thousand words, but which words is the question.</figcaption>
 </figure>
 
