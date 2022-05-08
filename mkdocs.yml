@@ -26,6 +26,7 @@ theme:
 
 extra:
   generator: false
+  homepage: https://stefan-hagen.website
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/sthagen/lukea
