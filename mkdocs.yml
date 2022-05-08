@@ -13,6 +13,7 @@ theme:
     code: 'Source Code Pro'
   features:
   - toc.integrate
+  - navigation.indexes
   - navigation.top
   palette:
     # Light mode
