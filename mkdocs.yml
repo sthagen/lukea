@@ -56,11 +56,13 @@ plugins:
 nav:
   - 'Cover Navigation': 'index.md'
   - 'The Wun':
+    - wun/index.md
     - Introduction: 'wun/intro.md'
     - References: 'wun/refs.md'
     - Reading: 'wun/read.md'
     - Glossary: 'wun/gloss.md'
   - 'The Two':
+    - two/index.md
     - Introduction: 'two/intro.md'
     - References: 'two/refs.md'
     - Writing: 'two/write.md'
