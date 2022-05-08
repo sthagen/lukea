@@ -1,9 +1,12 @@
 
 # Title (page)
 
-<img alt="A winterly vertical landscape." src="../images/title.jpg">
+<figure markdown>
+  ![A winterly vertical landscape.](../images/title.jpg){ width="100%", loading=lazy }
+  <figcaption>A picture is worth a thousand words, but which words is the question.</figcaption>
+</figure>
 
-A picture is worth a thousand words, but which words is the question.
+
 
 Some title may appear.
 
