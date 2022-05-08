@@ -22,6 +22,16 @@ Reading language on a screen provides a physical window into the virtual world o
 
 Blindtext is hard to write, isn't it?
 
+Imagine some example text in a fixed font (like a programming language example):
+
+```python
+import first.first as first
+
+answer = first(number for number in (42, -1, 101))
+if answer == 42:
+    print('All clear.')
+```
+
 ## Summary
 
 In this section we visited the reading activities separated by the provisioning medium and shortly prepared a deeper analysis of the goals.
