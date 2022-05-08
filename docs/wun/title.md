@@ -1,7 +1,7 @@
 
 # Title (page)
 
-A picture is worth a thousnd words, but which words is the question.
+A picture is worth a thousand words, but which words is the question.
 
 Some title may appear.
 
