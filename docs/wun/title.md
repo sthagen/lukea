@@ -1,6 +1,8 @@
 
 # Title (page)
 
+<img alt="A winterly vertical landscape." src="../images/title.jpg">
+
 A picture is worth a thousand words, but which words is the question.
 
 Some title may appear.
