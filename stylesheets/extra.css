@@ -1,3 +1,5 @@
 .md-grid {
   max-width: 1440px;
 }
+th, td { border: solid 1px; }
+th { font-weight: bold; }
