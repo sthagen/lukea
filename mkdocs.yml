@@ -4,11 +4,6 @@ site_description: "Read (Finnish: lukea)."
 theme:
   name: 'material'
   custom_dir: overrides
-  shortcuts:
-      help: 191    # ?
-      next: 78     # n
-      previous: 80 # p
-      search: 83   # s
   favicon: images/favicon.png
   icon:
     logo:
