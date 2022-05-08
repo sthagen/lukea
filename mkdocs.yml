@@ -55,19 +55,29 @@ plugins:
 
 nav:
   - Documents: 'index.md'
-  - wun:
+  - 'The Wun':
     - Titlepage: 'wun/title.md'
     - Introduction: 'wun/intro.md'
     - References: 'wun/refs.md'
     - Reading: 'wun/read.md'
     - Glossary: 'wun/gloss.md'
-  - two:
+  - 'The Two':
     - Titlepage: 'two/title.md'
     - Introduction: 'two/intro.md'
     - References: 'two/refs.md'
-    - Reading: 'two/write.md'
+    - Writing: 'two/write.md'
     - Glossary: 'two/gloss.md'
 
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - tables
+  - toc:
+      permalink: '∞'
 
 extra_javascript:
