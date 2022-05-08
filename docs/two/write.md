@@ -27,6 +27,14 @@ const {foo, bar = 42} = {...{foo: {baz: 'quux'}}}
 console.log(bar)
 ```
 
+### Tables
+
+| Method      | Description                |
+|:----------- |:-------------------------- |
+| `GET`       | Fetch resource             |
+| `PUT`       | Update (complete) resource |
+| `DELETE`    | Delete resource            |
+
 ## Summary
 
 In this section we visited the writing activities separated by the provisioning medium and shortly prepared a deeper analysis of the goals.
