@@ -54,7 +54,7 @@ plugins:
   - search
 
 nav:
-  - Documents: 'index.md'
+  - 'Cover Navigation': 'index.md'
   - 'The Wun':
     - Titlepage: 'wun/title.md'
     - Introduction: 'wun/intro.md'
