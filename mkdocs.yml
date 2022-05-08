@@ -11,6 +11,9 @@ theme:
   font:
     text: 'Libre Franklin'
     code: 'Source Code Pro'
+  features:
+  - toc.integrate
+  - navigation.top
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
