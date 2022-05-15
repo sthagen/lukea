@@ -73,6 +73,7 @@ nav:
       - Writing: 'two/write.md'
       - Glossary: 'two/gloss.md'
   - Words:
+    - foo/index.md
     - Foo:
       - foo/index.md
       - Introduction: 'foo/intro.md'
