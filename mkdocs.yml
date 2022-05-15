@@ -58,18 +58,29 @@ plugins:
 
 nav:
   - 'Cover Navigation': 'index.md'
-  - 'The Wun':
-    - wun/index.md
-    - Introduction: 'wun/intro.md'
-    - References: 'wun/refs.md'
-    - Reading: 'wun/read.md'
-    - Glossary: 'wun/gloss.md'
-  - 'The Two':
-    - two/index.md
-    - Introduction: 'two/intro.md'
-    - References: 'two/refs.md'
-    - Writing: 'two/write.md'
-    - Glossary: 'two/gloss.md'
+  - Numbers:
+    - numbers/index.md
+    - 'The Wun':
+      - wun/index.md
+      - Introduction: 'wun/intro.md'
+      - References: 'wun/refs.md'
+      - Reading: 'wun/read.md'
+      - Glossary: 'wun/gloss.md'
+    - 'The Two':
+      - two/index.md
+      - Introduction: 'two/intro.md'
+      - References: 'two/refs.md'
+      - Writing: 'two/write.md'
+      - Glossary: 'two/gloss.md'
+  - Words:
+    - Foo:
+      - foo/index.md
+      - Introduction: 'foo/intro.md'
+      - References: 'foo/refs.md'
+      - Loading: 'foo/bar.md'
+      - Dumping: 'foo/baz.md'
+      - Fuzzing: 'foo/quux.md'
+      - Glossary: 'two/gloss.md'
 
 markdown_extensions:
   - abbr
