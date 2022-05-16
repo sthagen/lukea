@@ -57,7 +57,7 @@ plugins:
   - search
 
 nav:
-  - 'Cover Navigation': index.md
+  - 'Cover Navigation': library.md
   - Numbers:
     - index.md
     - 'The Wun':

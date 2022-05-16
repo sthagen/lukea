@@ -1,7 +1,12 @@
 
 # Foo (titlepage)
 
-No pictures outside of your mind here.
+<figure markdown>
+  ![A fractal leaf.](images/title.jpg){ width="100%", loading=lazy }
+  <figcaption>Beauty may be in petals and in leafs.</figcaption>
+</figure>
+
+No further pictures here.
 
 Again:
 
