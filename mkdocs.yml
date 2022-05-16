@@ -57,9 +57,9 @@ plugins:
   - search
 
 nav:
-  - 'Cover Navigation': library.md
+  - 'Cover Navigation': index.md
   - Numbers:
-    - index.md
+    - '': ndex.md
     - 'The Wun':
       - wun/index.md
       - Introduction: wun/intro.md
@@ -73,7 +73,7 @@ nav:
       - Writing: two/write.md
       - Glossary: two/gloss.md
   - Words:
-    - numbers/index.md
+    - '': wndex.md
     - Foo:
       - foo/index.md
       - Introduction: foo/intro.md
