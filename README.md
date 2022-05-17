@@ -2,7 +2,7 @@
 
 Read (Finnish: lukea).
 
-covers, numbers, and words.
+Covers, numbers, and words.
 
 ## Status
 
