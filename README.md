@@ -2,6 +2,8 @@
 
 Read (Finnish: lukea).
 
+covers, numbers, and words.
+
 ## Status
 
 Experimental.
